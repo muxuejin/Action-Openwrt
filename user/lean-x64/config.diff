@@ -32,7 +32,6 @@ CONFIG_PACKAGE_libjose=m
 CONFIG_PACKAGE_tang=m
 CONFIG_PACKAGE_wireguard-tools=m
 
-
 # Firmware
 
 CONFIG_PACKAGE_aircard-pcmcia-firmware=m
