@@ -1,4 +1,4 @@
 # Action-Openwrt
-![](https://github.com/hyird/Action-Openwrt/workflows/Openwrt-AutoBuild/badge.svg)
-![](https://img.shields.io/github/downloads/hyird/Action-Openwrt/total)
-![](https://img.shields.io/github/v/release/hyird/Action-Openwrt)
+![](https://github.com/muxuejin/Action-Openwrt/workflows/Openwrt-AutoBuild/badge.svg)
+![](https://img.shields.io/github/downloads/muxuejin/Action-Openwrt/total)
+![](https://img.shields.io/github/v/release/muxuejin/Action-Openwrt)
